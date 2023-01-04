@@ -1,4 +1,4 @@
-# challenge4
+# Module 4
 Module 4 Challenge: Analyzing Funds for Investment Portfolio
 
 Requirements: An analysis of four potential investment options to determine the one with the most promising potential for inclusion in client portfolios. The evaluation will be based on a number of risk-management metrics, including daily returns, standard deviations, Sharpe ratios, and betas. The goal is to identify the fund that offers the best balance of risk and return. 
