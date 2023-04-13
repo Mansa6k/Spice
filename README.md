@@ -33,8 +33,7 @@ A script has been developed to evaluate new funds for inclusion in client portfo
 ## Contributors
 
 Andre Johnson
-Barron
----
+
 
 ## License
 
